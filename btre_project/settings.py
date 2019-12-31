@@ -27,7 +27,7 @@ SECRET_KEY = '6p9=^t$+-=ua0bcnisz=eo@%g-e3q15ppahwo%(ty)*i7b4rl@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1','harishweb1.herokuapp.com']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1','harishweb2.herokuapp.com']
 
 
 # Application definition
